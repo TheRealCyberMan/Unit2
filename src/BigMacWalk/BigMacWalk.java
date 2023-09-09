@@ -3,7 +3,7 @@ public class BigMacWalk {
         // 1
         int apples;
 
-        // 2
+        // 2)
         apples = 12;
 
         // 3
@@ -18,12 +18,15 @@ public class BigMacWalk {
         pi = 3.14159;
         System.out.println("Pi is equal to " + pi);
         
-		// add 6 here
+		// 6 
+
+		System.out.println(" 3 sides on a triangle");
+		
 
         // 7
-        String day = "Wednesday";
+        String day = "Tuesday";
 
-        // 8
+        // 8) 
         System.out.println("Hello! Today is " + day);
 
         // 9
@@ -48,7 +51,9 @@ public class BigMacWalk {
         double width = 8.65;
         System.out.println("Area of rectangle is " + (length * width));
 
-        // add 14 here
+        //14
+
+        System.out.println("six holes on a pool table");
 
         // 15
         double base = 11.89;
